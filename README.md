@@ -24,7 +24,7 @@ I'm currently studying Computer Science and Computer Engineering while developin
 <h3>Technical Skills</h3>
 
 **Programming Languages**  
-`Python` `C++ (Arduino)` `Java`
+`Python` `C++` `Java`
 
 **Hardware & Electronics**  
 `Arduino Uno` `VEX Robotics` `Breadboarding` `Digital Logic Circuits` `Logic Gates` `Sensors`
