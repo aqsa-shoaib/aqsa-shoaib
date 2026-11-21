@@ -27,7 +27,7 @@ I'm currently studying Computer Science and Computer Engineering while developin
 `Python` `C++` `Java`
 
 **Hardware & Electronics**  
-`Arduino Uno` `VEX Robotics` `Breadboarding` `Digital Logic Circuits` `Logic Gates` `Sensors`
+`Arduino Uno` `VEX Robotics` `Breadboards` `Digital Logic Circuits` `Sensors`
 
 **Tools & Technologies**  
 `GitHub` `Visual Studio Code` `Linux` `Tinkercad` `Soldering Equipment` `Digital Multimeters`
@@ -42,7 +42,7 @@ I'm currently studying Computer Science and Computer Engineering while developin
 - Software development
 - Engineering design and problem-solving
 
-<h3>Beyond Engineering</h3>
+<h3>Beyond School</h3>
 
 Outside of academics and technical projects, I enjoy German cars, travelling, watching TV shows, and learning new things.
 
