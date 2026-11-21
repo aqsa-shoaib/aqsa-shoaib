@@ -45,9 +45,3 @@ I'm currently studying Computer Science and Computer Engineering while developin
 <h3>Beyond School</h3>
 
 Outside of academics and technical projects, I enjoy German cars, travelling, watching TV shows, and learning new things.
-
----
-
-<p align="center">
-  <a href="https://github.com/aqsa-shoaib">GitHub</a>
-</p>
